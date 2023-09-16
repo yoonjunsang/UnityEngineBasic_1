@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_1\\newproject\\newproject\\newproject.csproj",
-      "projectName": "newproject",
-      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_1\\newproject\\newproject\\newproject.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_1\\newproject\\newproject\\FirstProject.csproj",
+      "projectName": "FirstProject",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_1\\newproject\\newproject\\FirstProject.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_1\\newproject\\newproject\\obj\\",
       "projectStyle": "PackageReference",

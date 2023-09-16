@@ -1,6 +1,6 @@
 ﻿using System.Xml.Serialization;
 
-namespace newproject
+namespace CSharp
 {
     //철수 객체 할당할 때 필요한 메모리 : 8byte (멤버변수 크기 총 합)
     class 철수
