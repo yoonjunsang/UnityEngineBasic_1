@@ -26,7 +26,11 @@
             //Boxing : 
             // object 타입 변수에 어떤 데이터를 입력하면
             // heap 메모리 영역에 object 타입 객체를 생성하고
+<<<<<<< HEAD
             // Typeinfo와 데이터를 씀.
+=======
+            // 데이터의 타입참조테이블인덱스와 데이터를 씀.
+>>>>>>> c0a82bb8b6c6e40d00eeb4ae4bf6522978de8adc
             object int1 = 3;
             object str = "zㅣ존검사";
             object wizard = new Wizard();

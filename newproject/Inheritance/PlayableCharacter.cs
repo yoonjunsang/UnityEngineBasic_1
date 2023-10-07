@@ -51,6 +51,7 @@ namespace Inheritance
             get { return _criticalGain; }
         }
 
+<<<<<<< HEAD
         public float criticalRatio
         {
             get { return _criticalRatio; }
@@ -61,6 +62,15 @@ namespace Inheritance
         private float _attackPower;
         private float _criticalGain;
         private float _criticalRatio;
+=======
+        public float criticalRatio => throw new NotImplementedException();
+
+        private float _hp;
+        private float _hpMax;
+        private float _hpMin;
+        private float _attackPower;  
+        private float _criticalGain;
+>>>>>>> c0a82bb8b6c6e40d00eeb4ae4bf6522978de8adc
 
         public virtual void Breath() 
         {

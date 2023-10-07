@@ -16,7 +16,10 @@ namespace EnumTypes
     }
 
     //열거형으로  Bit Flages 를 정의하는 방법
+<<<<<<< HEAD
     //열거된 아이템 bit가 겹치지 않도록 열거
+=======
+>>>>>>> c0a82bb8b6c6e40d00eeb4ae4bf6522978de8adc
     public enum LayerMask
     { 
         Default = 0 << 0, // 0 // ... 00000000
